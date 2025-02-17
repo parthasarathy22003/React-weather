@@ -3,25 +3,25 @@
 🌦️ #WeatherApp
 A simple and responsive weather application built with React.js that fetches real-time weather data using the OpenWeatherMap API. The app allows users to search for any city and get current weather details, including:
 
-🌡️ #Temperature
-💨 #Wind Speed
-💧 #Humidity
-📍 #City & Country
-🌍 #Latitude & Longitude
-🚀 #Features
-✅ #Search for any city's weather
-✅ #Displays current temperature, humidity, wind speed
-✅ #Shows city and country name
-✅ #Latitude and longitude information
-✅ #Beautiful UI with animated effects
-✅ #Fast and responsive design
+🌡️ Temperature
+💨 Wind Speed
+💧 Humidity
+📍 City & Country
+🌍 Latitude & Longitude
+🚀 Features
+✅ Search for any city's weather
+✅ Displays current temperature, humidity, wind speed
+✅ Shows city and country name
+✅ Latitude and longitude information
+✅ Beautiful UI with animated effects
+✅ Fast and responsive design
 
 
-🛠️ #Tech Stack
-#Frontend: React.js, CSS
-#API: OpenWeatherMap
-#Icons: Custom weather icons
-#🎨 UI Enhancements
+🛠️ Tech Stack
+Frontend: React.js, CSS
+API: OpenWeatherMap
+Icons: Custom weather icons
+🎨 UI Enhancements
 🔹 Improved background colors for a modern look
 🔹 Smooth animations on weather details
 🔹 Clean and user-friendly interface
